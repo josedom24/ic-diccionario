@@ -1,6 +1,6 @@
 # Prueba
 
-Hola, esto es una prba
+Hola, esto es una prueba
 
 Ejemplo de integración continúa para
 
